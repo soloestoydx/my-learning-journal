@@ -1,3 +1,3 @@
 # my-learning-journal
-My notes from the Git &amp; GitHub session
+My notes from the Git & GitHub session
 Updated from Github directly!
